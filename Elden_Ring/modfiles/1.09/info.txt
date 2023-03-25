@@ -1,0 +1,4 @@
+Seamless-Coop==1.5.1
+EldenModLoader==117.3.2
+EldenRingReforged==0.6.1B
+ModEngine2==Preview4
